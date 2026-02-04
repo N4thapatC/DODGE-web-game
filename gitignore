@@ -1,0 +1,16 @@
+# Music files (optional - users add their own)
+music/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
