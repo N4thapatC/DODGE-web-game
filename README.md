@@ -1,4 +1,4 @@
-# 🎮 DODGE.exe
+# DODGE.exe
 
 A minimalist retro-style dodge game with escalating difficulty across 4 intense phases. Test your reflexes and see how long you can survive!
 
@@ -6,7 +6,7 @@ A minimalist retro-style dodge game with escalating difficulty across 4 intense 
 ![Version](https://img.shields.io/badge/version-1.0-blue)
 ![License](https://img.shields.io/badge/license-MIT-orange)
 
-## 🕹️ Game Features
+## Game Features
 
 - **4 Unique Phases** - Each with increasing difficulty and unique enemy patterns
 - **Dynamic Difficulty** - Enemy speed and spawn rate increase over time
@@ -16,7 +16,7 @@ A minimalist retro-style dodge game with escalating difficulty across 4 intense 
 - **Score Tracking** - Local high score and latest score display
 - **God Mode** - Secret debug mode for testing (Press G)
 
-## 🎯 How to Play
+## How to Play
 
 ### Controls
 - **Arrow Keys** or **WASD** - Move your character
@@ -34,7 +34,7 @@ Survive as long as possible by dodging red enemy squares. The game gets progress
 
 Each phase lasts 30 seconds before transitioning to the next level of difficulty.
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Option 1: Play Locally (No Setup Required)
 
@@ -57,7 +57,7 @@ Each phase lasts 30 seconds before transitioning to the next level of difficulty
 
 **Note:** If music files are not found, the game will run silently (sound effects still work).
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 DODGE.exe/
@@ -72,7 +72,7 @@ DODGE.exe/
     └── phase4.mp3
 ```
 
-## 🎵 Music Recommendations
+## Music Recommendations
 
 For the best experience, use music that matches each phase's intensity:
 
@@ -81,7 +81,7 @@ For the best experience, use music that matches each phase's intensity:
 - **Phase 3**: Intense, fast music (130-150 BPM)
 - **Phase 4**: Aggressive, extreme music (150+ BPM)
 
-## 🎨 Technical Details
+## Technical Details
 
 ### Built With
 - **Vanilla JavaScript** - No frameworks required
@@ -117,13 +117,13 @@ const PHASE_DURATION = 30; // seconds (default: 30)
 ### Modify Difficulty Curve
 Look for phase-specific settings in `game.js` starting around line ~439.
 
-## 🐛 Known Issues
+## Known Issues
 
 - Music files must be in MP3 format
 - Browser must support Web Audio API
 - Some browsers may require user interaction before playing audio
 
-## 📝 Development Notes
+## Development Notes
 
 ### God Mode
 Press **G** during gameplay to toggle invincibility. Useful for:
@@ -133,7 +133,7 @@ Press **G** during gameplay to toggle invincibility. Useful for:
 
 A gold "GOD MODE" indicator appears when active.
 
-## 🤝 Contributing
+## Contributing
 
 Feel free to fork this project and submit pull requests! Some ideas for contributions:
 
@@ -152,7 +152,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 Created as a minimalist arcade-style game experiment.
 
-## 🎯 Future Ideas
+## Future Ideas
 
 - [ ] Particle effects on death
 - [ ] Power-up system
@@ -161,10 +161,4 @@ Created as a minimalist arcade-style game experiment.
 - [ ] Mobile touch controls
 - [ ] Online leaderboard
 - [ ] Customizable color schemes
-
----
-
-**Enjoy the game! How long can you survive?** 🎮👾
-
-*Star ⭐ this repo if you enjoyed playing!*
 
