@@ -100,7 +100,7 @@ For the best experience, use music that matches each phase's intensity:
 - Lightweight (~50KB total)
 - No external dependencies
 
-## 🔧 Customization
+## Customization
 
 ### Adjust Music Volume
 Edit `game.js` line ~80:
@@ -144,11 +144,11 @@ Feel free to fork this project and submit pull requests! Some ideas for contribu
 - Online leaderboard
 - Mobile controls
 
-## 📄 License
+## License
 
 This project is open source and available under the [MIT License](LICENSE).
 
-## 👨‍💻 Author
+## Author
 
 Created as a minimalist arcade-style game experiment.
 
